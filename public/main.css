@@ -79,7 +79,7 @@ body {
 }
 .inner {
     max-width: 980px;
-    width: 900px;
+    width: 960px;
     height: 60px;
     margin: 0 auto;
 }
@@ -177,6 +177,7 @@ body {
     width: 112px;
     height: 252px;
     border-right: 0;
+    text-align: left;
 }
 
 /* 슬라이드 */
@@ -264,5 +265,238 @@ body {
 .btn-section .slide-control [class*="control"] {
     display:none;
 }
+/* 슬라이드 오른쪽 배너 */
+.main .todayChallenge {
+    width: 240px;
+    height: 252px;
+    background: orange;
+    float: right;
+}
+
+/* 세미 메인 */
+.semi_main {
+    width: 960px;
+    height: 1751px;
+    margin-top: 8px;
+    padding-bottom: 100px;
+}
 
 
+/* ==========A_SIDE=========== */
+.semi_main .a_side {
+    width: 250px;
+    height: 1633px;
+    z-index: 2;
+    float: right;
+    padding-left: 10px;
+}
+
+.semi_main .a_side .upload {
+    margin-top: 8px;
+    width: 240px;
+    height: 42px;
+    background: #00d564;
+    text-align: center;
+    border: none;
+}
+
+.semi_main .a_side .upload .upload_text {
+    text-decoration: none;
+    color: white;
+    margin-top: 4px;
+}
+.semi_main .a_side .webtoon_ad {
+    margin-top: 8px;
+}
+/* 실시간랭킹 */
+.semi_main .a_side .a_side_box {
+    width: 240px;
+    height: 296px;
+    background: white;
+    margin-top: 8px;
+}
+
+.semi_main .a_side .a_side_box .a_side_box_title {
+    width: 240px;
+    height: 31px;
+    border: 1px solid #e1e1e1;
+    border-bottom: none;
+    font-size: 0;
+}
+.semi_main .a_side .a_side_box .a_side_box_title img {
+    float: left;
+    margin: 9px 0 0 12px;
+}
+#realtimerank {
+    width: 240px;
+    height: 30px;
+}
+#realtimerank .인기순 {
+    width: 120px;
+    height: 30px;
+    float: left;
+    border: 1px solid #e1e1e1;
+}
+#realtimerank .인기순 img {
+    margin: 9px 0 0;
+}
+#realtimerank .업데이트순 {
+    width: 120px;
+    height: 30px;
+    float: right;
+    border: 1px solid #e1e1e1;
+    border-left: none;
+}
+#realtimerank .업데이트순 img {
+    margin: 9px 0 0;
+}
+.semi_main .a_side .a_side_box .realtimebox {
+    width: 240px;
+    height: 232px;
+    border: 1px solid #e1e1e1;
+    border-top: none;
+}
+
+/* 나이대별 랭킹 */
+.semi_main .a_side .agefavrank {
+    width: 240px;
+    height: 276px;
+    background: white;
+    margin-top: 8px;
+}
+.semi_main .a_side .agefavrank .age_title {
+    width: 240px;
+    height: 31px;
+    border: 1px solid #e1e1e1;
+    border-bottom: none;
+    font-size: 0;
+}
+.semi_main .a_side .agefavrank .age_title img {
+    float: left;
+    margin: 9px 0 0 12px;
+}
+#age_rank {
+    width: 240px;
+    height: 30px;
+}
+#age_rank .man {
+    width: 120px;
+    height: 30px;
+    float: left;
+    border: 1px solid #e1e1e1;
+}
+#age_rank .man img {
+    margin: 9px 0 0;
+}
+#age_rank .lady {
+    width: 120px;
+    height: 30px;
+    float: right;
+    border: 1px solid #e1e1e1;
+    border-left: none;
+}
+#age_rank .lady img {
+    margin: 9px 0 0;
+}
+.semi_main .a_side .agefavrank .realtimeage {
+    width: 240px;
+    height: 212px;
+    border: 1px solid #e1e1e1;
+    border-top: none;
+}
+/* 공지사항 */
+.semi_main .a_side .notice {
+    width: 240px;
+    height: 224px;
+    margin-top: 8px;
+    background: white;
+}
+.semi_main .a_side .notice .notice_title {
+    width: 240px;
+    height: 31px;
+    border: 1px solid #e1e1e1;
+    border-bottom: none;
+}
+.semi_main .a_side .notice .notice_title img {
+    float: left;
+    margin: 9px 0 0 12px;
+}
+.semi_main .a_side .notice .notice_title a {
+    float: right;
+}
+.semi_main .a_side .notice .notice_main {
+    width: 240px;
+    height: 191px;
+    border: 1px solid #e1e1e1;
+}
+/* 배너 */
+.semi_main .a_side .partnership {
+    margin-top: 6px;
+}
+.semi_main .a_side .joinus {
+    margin-top: 6px;
+}
+.semi_main .a_side .contest {
+    margin-top: 6px;
+}
+.semi_main .a_side .채용공고 {
+    margin-top: 6px;
+}
+.semi_main .a_side .FAQ {
+    width: 240px;
+    height: 32px;
+    margin-top: 6px;
+    background: #fff;
+    border: 1px solid #e1e1e1;
+    text-decoration: none;
+    font-weight: bold;
+}
+.semi_main .a_side .FAQ a {
+    color: black;
+}
+/* ============================================== */
+
+/* ===============CONTENT===================== */
+.semi_main .content {
+    width: 704px;
+    height: 1393px;
+    float: left;
+}
+
+.semi_main .main_ad {
+    padding-right: 10px;
+}
+
+.semi_main .content .content_wrap {
+    width: 694px;
+    height: 539px;
+    text-align: left;
+}
+
+.semi_main .content .content_wrap .content_title {
+    width: 694px;
+    height: 56px;
+    padding: 30px 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.semi_main .content .content_wrap .content_title a  {
+    color: black
+}
+.semi_main .content .content_wrap .content_title a span {
+    color: #00d564;
+}
+.semi_main .content .content_wrap .tag_br {
+    width: 694px;
+    height: 23px;
+    margin-top: 12px;
+    border-bottom:1px solid #e1e1e1;
+}
+.semi_main .content .content_wrap .tag_br ul {
+
+}
+.semi_main .content .content_wrap .tag_br li {
+    float: left;
+    padding: 0 6px;
+    font-size: 14px;
+}

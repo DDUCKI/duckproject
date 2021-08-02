@@ -3,15 +3,22 @@ const app = express();
 const PORT = 5000;
 app.use('/public', express.static('public'))
 app.use(express.static('img'));
+app.set('view engine', 'ejs');
 
 app.listen(PORT, () => {
   console.log(`App is listening on port ${PORT}!`);
 });
 
-app.get('/', (req,res) => {
-    res.sendFile(__dirname + '/main.html');
-  });
+
+app.get('/', function(req, res){
+    res.render('main.ejs')
+});
+
 
 app.get('/login', (req,res) => {
-    res.sendFile(__dirname + '/login.html');
+    res.render('login.ejs');
+});
+
+app.get('/mypage', (req,res) => {
+    res.render('mypage.ejs');
 });

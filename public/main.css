@@ -492,11 +492,238 @@ body {
     margin-top: 12px;
     border-bottom:1px solid #e1e1e1;
 }
-.semi_main .content .content_wrap .tag_br ul {
-
+.semi_main .content .content_wrap .tag_br li a {
+    color: #000000;
+    font-weight:500;
 }
 .semi_main .content .content_wrap .tag_br li {
     float: left;
     padding: 0 6px;
     font-size: 14px;
+}
+/* VIEW_TYPE */
+.semi_main .content .content_wrap .view_type {
+    width: 694px;
+    height: 15px;
+    margin: 12px 0;
+}
+.semi_main .content .content_wrap .view_type .sortby {
+    width: 240px;
+    height: 12px;
+    margin-top: 3px;
+    margin-left: 4px;
+    float: right;
+    text-decoration: none;
+    display: flex;
+}
+.semi_main .content .content_wrap .view_type .sortby li {
+    margin-left: 14px;
+    padding-right: 2px;
+    font-size: 12px;
+}
+.semi_main .content .content_wrap .view_type .sortby li a {
+    color: #afafaf;
+}
+
+.semi_main .content .content_wrap .view_type .sortby .view_popular {
+    width: 32px;
+    height: 12px;
+}
+.semi_main .content .content_wrap .view_type .sortby .view_update {
+    width: 54px;
+    height: 12px;
+}
+.semi_main .content .content_wrap .view_type .sortby .view_count {
+    width: 32px;
+    height: 12px;
+}
+.semi_main .content .content_wrap .view_type .sortby .view_star {
+    width: 32px;
+    height: 12px;
+}
+
+/* CONTENT-MAIN */
+.semi_main .content .content_wrap .content_main {
+    width: 714px;
+    height: 409px;
+    margin: 0 -10px;
+    padding: 0 0 17px;
+    list-style: none;
+}
+.semi_main .content .content_wrap .content_main .content_top {
+    float: left;
+    display: flex;
+}
+.semi_main .content .content_wrap .content_main .content_bottom {
+    float: left;
+    display: flex;
+}
+
+/* =============01============= */
+.semi_main .content .content_wrap .content_main .content01 {
+    width: 238px;
+    height: 196px;
+    padding: 0 10px;
+    
+}
+.semi_main .content .content_wrap .content_main .content01 a {
+    width: 218px;
+    height: 120px;
+}
+.semi_main .content .content_wrap .content_main .content01 .content01_info {
+    width: 218px;
+    height: 55px;
+    margin: 11px 0 0;
+}
+.semi_main .content .content_wrap .content_main .content01 .content01_info h6 a {
+    color: #000;
+}
+.semi_main .content .content_wrap .content_main .content01 .content01_info p {
+    width: 218px;
+    height: 24px;
+    padding: 5px 0;
+    color: #434343;
+}
+.semi_main .content .content_wrap .content_main .content01 .content01_info span a {
+    color: #afafaf;
+}
+/* =============02============= */
+.semi_main .content .content_wrap .content_main .content02 {
+    width: 238px;
+    height: 196px;
+    padding: 0 10px;
+    
+}
+.semi_main .content .content_wrap .content_main .content02 a {
+    width: 218px;
+    height: 120px;
+}
+.semi_main .content .content_wrap .content_main .content02 .content02_info {
+    width: 218px;
+    height: 55px;
+    margin: 11px 0 0;
+}
+.semi_main .content .content_wrap .content_main .content02 .content02_info h6 a {
+    color: #000;
+}
+.semi_main .content .content_wrap .content_main .content02 .content02_info p {
+    width: 218px;
+    height: 24px;
+    padding: 5px 0;
+    color: #434343;
+}
+.semi_main .content .content_wrap .content_main .content02 .content02_info span a {
+    color: #afafaf;
+}
+/* =============03============= */
+.semi_main .content .content_wrap .content_main .content03 {
+    width: 238px;
+    height: 196px;
+    padding: 0 10px;
+    
+}
+.semi_main .content .content_wrap .content_main .content03 a {
+    width: 218px;
+    height: 120px;
+}
+.semi_main .content .content_wrap .content_main .content03 .content03_info {
+    width: 218px;
+    height: 55px;
+    margin: 11px 0 0;
+}
+.semi_main .content .content_wrap .content_main .content03 .content03_info h6 a {
+    color: #000;
+}
+.semi_main .content .content_wrap .content_main .content03 .content03_info p {
+    width: 218px;
+    height: 24px;
+    padding: 5px 0;
+    color: #434343;
+}
+.semi_main .content .content_wrap .content_main .content03 .content03_info span a {
+    color: #afafaf;
+}
+/* =============04============= */
+.semi_main .content .content_wrap .content_main .content04 {
+    width: 238px;
+    height: 196px;
+    padding: 0 10px;
+    
+}
+.semi_main .content .content_wrap .content_main .content04 a {
+    width: 218px;
+    height: 120px;
+}
+.semi_main .content .content_wrap .content_main .content04 .content04_info {
+    width: 218px;
+    height: 55px;
+    margin: 11px 0 0;
+}
+.semi_main .content .content_wrap .content_main .content04 .content04_info h6 a {
+    color: #000;
+}
+.semi_main .content .content_wrap .content_main .content04 .content04_info p {
+    width: 218px;
+    height: 24px;
+    padding: 5px 0;
+    color: #434343;
+}
+.semi_main .content .content_wrap .content_main .content04 .content04_info span a {
+    color: #afafaf;
+}
+/* =============05============= */
+.semi_main .content .content_wrap .content_main .content05 {
+    width: 238px;
+    height: 196px;
+    padding: 0 10px;
+    
+}
+.semi_main .content .content_wrap .content_main .content05 a {
+    width: 218px;
+    height: 120px;
+}
+.semi_main .content .content_wrap .content_main .content05 .content05_info {
+    width: 218px;
+    height: 55px;
+    margin: 11px 0 0;
+}
+.semi_main .content .content_wrap .content_main .content05 .content05_info h6 a {
+    color: #000;
+}
+.semi_main .content .content_wrap .content_main .content05 .content05_info p {
+    width: 218px;
+    height: 24px;
+    padding: 5px 0;
+    color: #434343;
+}
+.semi_main .content .content_wrap .content_main .content05 .content05_info span a {
+    color: #afafaf;
+}
+/* =============06============= */
+.semi_main .content .content_wrap .content_main .content06 {
+    width: 238px;
+    height: 196px;
+    padding: 0 10px;
+    
+}
+.semi_main .content .content_wrap .content_main .content06 a {
+    width: 218px;
+    height: 120px;
+}
+.semi_main .content .content_wrap .content_main .content06 .content06_info {
+    width: 218px;
+    height: 55px;
+    margin: 11px 0 0;
+}
+.semi_main .content .content_wrap .content_main .content06 .content06_info h6 a {
+    color: #000;
+}
+.semi_main .content .content_wrap .content_main .content06 .content06_info p {
+    width: 218px;
+    height: 24px;
+    padding: 5px 0;
+    color: #434343;
+}
+.semi_main .content .content_wrap .content_main .content06 .content06_info span a {
+    color: #afafaf;
 }

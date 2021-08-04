@@ -17,7 +17,192 @@
 <body>
     <!-- 헤더 -->
     <%- include('header.html') %>
+<div class="inner">
+    <div class="semi_main">
     <!-- a_side -->
-    <%- include('a_side.html') %>
+    <div class="a_side">
+        <div class="ad">
+            <img src="광고이미지.png" alt="광고이미지">
+        </div>
+        <button class="upload">
+            <a href="#" class="upload_text">웹툰올리기</a>
+        </button>
+        <div class="webtoon_ad">
+            <img src="웹툰광고.jpg" alt="웹툰광고">
+        </div>
+        <!-- 실시간랭킹 -->
+        <div class="a_side_box">
+            <div class="a_side_box_title">
+                <img src="인기급상승.gif" alt="인기급상승" width="78" height="11">
+            </div>
+            <div id="realtimerank">
+                <div class="인기순">
+                    <img src="인기순.gif" alt="인기" width="31" height="12">
+                </div>
+                <div class="업데이트순">
+                    <img src="업데이트순.gif" alt="업데이트" width="51" height="12">
+                </div>
+            </div>
+    
+            <div class="realtimebox">
+                <ul>
+                    <li class="rank01"><a href="#">1순위</a></li>
+                    <li class="rank02"><a href="#">2순위</a></li>
+                    <li class="rank03"><a href="#">3순위</a></li>
+                    <li class="rank04"><a href="#">4순위</a></li>
+                    <li class="rank05"><a href="#">5순위</a></li>
+                </ul>
+            </div>
+        </div>
+            <!-- 실시간랭킹끝 -->
+    
+            <!-- 나이대별랭킹 -->
+            <div class="agefavrank">
+                <div class="age_title">
+                    <img src="10대실시간인기만화.gif" alt="10대" width="107" height="11">
+                </div>
+                <div id="age_rank">
+                    <div class="man">
+                        <img src="남자.png" alt="남자" width="21" height="11">
+                    </div>
+                    <div class="lady">
+                        <img src="여자.png" alt="여자" width="21" height="11">
+                    </div>
+                </div>
+    
+                <div class="realtimeage">
+                    <ul>
+                        <li class="arank01"><a href="#">1순위</a></li>
+                        <li class="arank02"><a href="#">2순위</a></li>
+                        <li class="arank03"><a href="#">3순위</a></li>
+                        <li class="arank04"><a href="#">4순위</a></li>
+                        <li class="arank05"><a href="#">5순위</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- 나이대별랭킹끝 -->
+            <!-- 공지사항 -->
+            <div class="notice">
+                <div class="notice_title">
+                    <img src="공지사항.gif" alt="공지" width="43" height="12">
+                    <a href="#">더보기</a>
+                </div>
+                <div class="notice_main">
+                        <ul>
+                            <li>asd</li>
+                        </ul>
+                </div>
+            </div>
+            <!-- 공지사항끝 -->
+            <div class="partnership">
+                <a href="#">
+                    <img src="파트너쉽.jpg" alt="파트너쉽" width="240" height="86">
+                </a>
+            </div>
+    
+            <div class="joinus">
+                <a href="#">
+                    <img src="조인어스.jpg" alt="조인어스" width="240" height="86">
+                </a>
+            </div>
+    
+            <div class="contest">
+                <a href="#">
+                    <img src="공모전.png" alt="공모전" width="240" height="86">
+                </a>
+            </div>
+    
+            <div class="채용공고">
+                <a href="#">
+                    <img src="채용공고.jpg" alt="채용공고" width="240" height="86">
+                </a>
+            </div>
+            <button class="FAQ">
+                <a href="#">만화FAQ</a>
+            </button>
+    </div>
+        <!-- ASIDE끝 -->
+
+
+
+
+
+
+
+
+        
+        <!-- 마이페이지 메인화면 -->
+        <div class="mypage_fav">
+            <div class="fav_head">
+                <div class="fav_select">
+                    <ul>
+                        <li><a href="#" style="color: #00d564;;">관심웹툰</a></li>
+                        <li><a href="#">책깔피</a></li>
+                        <li><a href="#">내 작품</a></li>
+                        <li><a href="#">이용제한 내역</a></li>
+                    </ul>
+                </div>
+                <!-- 나의 관심작가 -->
+                <div class="select_wrap">
+
+                    <div class="select_title">
+                        <p class="txt" style="font-size: 11px;">
+                            PC-모바일간 관심웹툰 연동 안내
+                        </p>
+                        <h3 style="font-weight: bold;">
+                            관심웹툰
+                        </h3> 
+                    </div>
+
+                    <div class="tbl_wrap">
+                        <div class="tbl_list">
+                            <div class="tbl01">
+                                <span>번호</span>
+                            </div>
+
+                            <div class="tbl02">
+                                <span>구분</span>
+                            </div>
+
+                            <div class="tbl03">
+                                <span>제목</span>
+                            </div>
+
+                            <div class="tbl04">
+                                <span>작가</span>
+                            </div>
+
+                            <div class="tbl05">
+                                <span>업데이트일</span>
+                            </div>
+
+                            <div class="tbl06">
+                                <span>선택</span>
+                            </div>
+                        </div>
+                        <div class="del_btn">
+                            <a href="#">
+                                <img src="삭제버튼.gif" alt="삭제">
+                            </a>
+                        </div>
+
+                        <div class="select_foot">
+                            <div class="foot_wrap">
+                                <div class="foot_btn">
+                                    <span style="color: #00d564; font-size: 12px;">1</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+    </div>
+    
 </body>
 </html>

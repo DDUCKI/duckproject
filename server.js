@@ -22,3 +22,15 @@ app.get('/login', (req,res) => {
 app.get('/mypage', (req,res) => {
     res.render('mypage.ejs');
 });
+
+app.get('/bookmark', (req,res) => {
+    res.render('bookmark.ejs');
+});
+
+app.get('/myActivity', (req,res) => {
+    res.render('myActivity.ejs');
+});
+
+app.get('/penalty', (req,res) => {
+    res.render('penalty.ejs');
+});

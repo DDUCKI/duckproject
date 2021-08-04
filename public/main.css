@@ -47,6 +47,18 @@ table {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 body {
     height: 100%;
     background: #fff;
@@ -282,6 +294,20 @@ body {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ==========A_SIDE=========== */
 .semi_main .a_side {
     width: 250px;
@@ -356,6 +382,7 @@ body {
     border: 1px solid #e1e1e1;
     border-top: none;
 }
+
 
 /* 나이대별 랭킹 */
 .semi_main .a_side .agefavrank {
@@ -455,6 +482,12 @@ body {
     color: black;
 }
 /* ============================================== */
+
+
+
+
+
+
 
 /* ===============CONTENT===================== */
 .semi_main .content {
@@ -732,6 +765,15 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
 /* 마이페이지 부분 CSS입니다  */
 
 /* 마이페이지 FAVORITE 부분 CSS 입니다 */
@@ -851,6 +893,381 @@ body {
     padding: 8px 0 6px;
 }
 .semi_main .mypage_fav .fav_head .select_wrap .tbl_wrap .select_foot .foot_btn {
+    width: 26px;
+    height: 27px;
+    border: 1px solid #e1e1e1;
+    margin: -1px 1px;
+    padding: 5px 2px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 마이페이지 BOOKMARK 부분 CSS 입니다 */
+.semi_main .mypage_bookmark .fav_head {
+    width: 704px;
+    height: 185px;
+}
+.semi_main .mypage_bookmark .fav_head .fav_select {
+    width: 694px;
+    height: 25px;
+    margin: 16px 0 11px;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .mypage_bookmark .fav_head .fav_select ul {
+    float: left;
+    display: flex;
+}
+.semi_main .mypage_bookmark .fav_head .fav_select ul li {
+    margin-left: 27px;
+}
+.semi_main .mypage_bookmark .fav_head .fav_select ul li a {
+    color: black;
+}
+.semi_main .mypage_bookmark .fav_head .fav_select ul li:nth-child(1) {
+    margin-left: 0px;
+}
+
+/* BODY */
+.semi_main .mypage_bookmark .fav_head .select_wrap {
+    width: 694px;
+    height: 133px;
+}
+.semi_main .mypage_bookmark .fav_head .select_wrap .select_title {
+    width: 694px;
+    height: 50px;
+    padding: 16px 0;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .mypage_bookmark .fav_head .select_wrap .select_title h3{
+    float: left;
+}
+
+/* TBL SETTING */
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap {
+    width: 694px;
+    height: 85px;
+    margin-top: -3px;
+}
+
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl_list {
+    width: 694px;
+    height: 32px;
+    display: flex;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl_list span {
+    color: #767676;
+    font-size: 11px;
+}
+
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl01 {
+    width: 56.31px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl02 {
+    width: 170.03px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl03 {
+    width: 109.45px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl04 {
+    width: 215.73px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl05 {
+    width: 142.47px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .tbl06 {
+    width: 49.08px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .del_btn {
+    float: right;
+    margin-top: 5px;
+    width: 51px;
+    height: 42px;
+}
+/* FOOT */
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .select_foot {
+    width: 694px;
+    height: 39px;
+    margin: 9px 0 0;
+}
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .select_foot .foot_wrap {
+    width: 28px;
+    height: 39px;
+    margin: 0 auto;
+    padding: 8px 0 6px;
+}
+.semi_main .mypage_bookmark .fav_head .select_wrap .tbl_wrap .select_foot .foot_btn {
+    width: 26px;
+    height: 27px;
+    border: 1px solid #e1e1e1;
+    margin: -1px 1px;
+    padding: 5px 2px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 마이페이지 MYACTIVITY 부분 CSS 입니다 */
+.semi_main .mypage_myActivity .fav_head {
+    width: 704px;
+    height: 222px;
+}
+.semi_main .mypage_myActivity .fav_head .fav_select {
+    width: 694px;
+    height: 25px;
+    margin: 16px 0 11px;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .mypage_myActivity .fav_head .fav_select ul {
+    float: left;
+    display: flex;
+}
+.semi_main .mypage_myActivity .fav_head .fav_select ul li {
+    margin-left: 27px;
+}
+.semi_main .mypage_myActivity .fav_head .fav_select ul li a {
+    color: black;
+}
+.semi_main .mypage_myActivity .fav_head .fav_select ul li:nth-child(1) {
+    margin-left: 0px;
+}
+
+/* BODY */
+.semi_main .mypage_myActivity .fav_head .select_wrap {
+    width: 694px;
+    height: 133px;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .select_title {
+    width: 694px;
+    height: 50px;
+    padding: 16px 0;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .select_title p {
+    font-size: 6px;
+    float: right;
+    color: #767676;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .select_title h3{
+    float: left;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .my_work_area {
+    width: 694px;
+    height: 120px;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .my_work_area .work01 {
+    width: 218px;
+    height: 120px;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .my_work_area .work01 a{
+    display: block;
+    width: 216px;
+    height: 118px;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    background: #fbfcfd;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .my_work_area .work01 a img {
+    width: 67px;
+    height: 55px;
+    margin: 23px 0 0;
+}
+.semi_main .mypage_myActivity .fav_head .select_wrap .my_work_area .work01 a em {
+    color: #737373;
+    font-size: 11px;
+    margin: 5px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 마이페이지 PENALTY 부분 CSS 입니다 */
+.semi_main .mypage_penalty .fav_head {
+    width: 704px;
+    height: 185px;
+}
+.semi_main .mypage_penalty .fav_head .fav_select {
+    width: 694px;
+    height: 25px;
+    margin: 16px 0 11px;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .mypage_penalty .fav_head .fav_select ul {
+    float: left;
+    display: flex;
+}
+.semi_main .mypage_penalty .fav_head .fav_select ul li {
+    margin-left: 27px;
+}
+.semi_main .mypage_penalty .fav_head .fav_select ul li a {
+    color: black;
+}
+.semi_main .mypage_penalty .fav_head .fav_select ul li:nth-child(1) {
+    margin-left: 0px;
+}
+
+/* BODY */
+.semi_main .mypage_penalty .fav_head .select_wrap {
+    width: 694px;
+    height: 133px;
+}
+.semi_main .mypage_penalty .fav_head .select_wrap .select_title {
+    width: 694px;
+    height: 50px;
+    padding: 16px 0;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .mypage_penalty .fav_head .select_wrap .select_title p {
+    font-size: 6px;
+    float: right;
+    color: #767676;
+}
+.semi_main .mypage_penalty .fav_head .select_wrap .select_title h3{
+    float: left;
+}
+
+/* TBL SETTING */
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap {
+    width: 694px;
+    height: 85px;
+    margin-top: -3px;
+}
+
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .tbl_list {
+    width: 694px;
+    height: 32px;
+    display: flex;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .tbl_list span {
+    color: #767676;
+    font-size: 11px;
+}
+
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .tbl01 {
+    width: 56.31px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .tbl02 {
+    width: 170.03px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .tbl03 {
+    width: 109.45px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .tbl04 {
+    width: 215.73px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .tbl05 {
+    width: 142.47px;
+    height: 32px;
+    padding: 8px 0 5px;
+}
+
+/* FOOT */
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .select_foot {
+    width: 694px;
+    height: 39px;
+    margin: 9px 0 0;
+}
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .select_foot .foot_wrap {
+    width: 28px;
+    height: 39px;
+    margin: 0 auto;
+    padding: 8px 0 6px;
+}
+.semi_main .mypage_penalty .fav_head .select_wrap .tbl_wrap .select_foot .foot_btn {
     width: 26px;
     height: 27px;
     border: 1px solid #e1e1e1;

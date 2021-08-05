@@ -23,13 +23,15 @@
                     <div class="inner">
                         <div class="main"> 
                             <div class="오늘의웹툰">
-                            <p>오늘의</br> 웹툰</p>
-                                <p>7월 29일 목요일</p>
-                                <div>
-                                    <a href="#">인기순</a></br>
-                                    <a href="#">업데이트순</a></br>
-                                    <a href="#">조회순</a></br>
-                                    <a href="#">별점순</a>
+                            <img src="오늘의 웹툰.png" alt="오늘의 웹툰">
+                                <p>8월 5일 목요일</p>
+                                <div class="main_list">
+                                    <ul>
+                                        <li><a href="#" style="color: #00d564;">인기순</a></li>
+                                        <li><a href="#">업데이트순</a></li>
+                                        <li><a href="#">조회순</a></li>
+                                        <li><a href="#">별점순</a></li>
+                                    </ul>
                                 </div>
                             </div>
                             
@@ -57,11 +59,29 @@
                             </div>
 
                             <!-- Right nav -->
-                        <div class="inner">
+                        
                             <div class="todayChallenge">
-                                    
+                                <div class="today_title_wrap">
+                                    <div class="today_title">
+                                        <img src="/sp_todayChallenge.png" alt="todayimg">
+                                    </div>
+                                </div> 
+                                <div class="today_box">
+                                    <img src="/todayChallenge.jpg" alt="todayChallengeimg">
+                                </div>
+                                <div class="today_detail">
+                                    <div class="dt">
+                                        <a href="">
+                                            <p>작은 집에 사는 커다...</p>
+                                        </a>
+                                    </div>
+                                    <div class="dl">
+                                        <p>강아지와 사람 이야기</p>
+                                    </div>
+                                </div>
                             </div> 
-                        </div>
+                            
+                        
                             <!-- 슬라이드 밑 버튼영역     -->
                             <div class="btn-section">
                                 <div class="slide-contorol">
@@ -82,22 +102,18 @@
                         <!-- Semi_Main -->
                     
                         <div class="semi_main">
-
+                            <div class="main_ad">
+                                <a href="#">
+                                    <img src="메인광고이미지.jpg" alt="ad" width="694" height="80">
+                                </a>
+                            </div>
                             <!-- A_SIDE -->
                             <%- include('a_side.html') %>
                             <!-- A_SIDE 끝 -->
 
                              <!-- CONENT -->
                              <div class="content">
-                                <div class="main_ad">
-                                    <a href="#">
-                                        <img src="메인광고이미지.jpg" alt="ad" width="694" height="80">
-                                    </a>
-                                </div>
-
-                            
-                                
-                           
+            
                 
                                 <!-- 장르별추천웹툰 -->
                                 <div class="content_wrap">

@@ -847,6 +847,189 @@ body {
 
 
 
+
+
+
+
+
+
+
+
+
+/* ======================베스트 도전 CSS입니다====================== */
+.semi_main .content .best_wrap {
+    width: 694px;
+    height: 432px;
+}
+.semi_main .content .best_wrap .best_title {
+    width: 694px;
+    height: 53px;
+    padding: 26px 0 10px;
+    background: yellow;
+}
+.semi_main .content .best_wrap .best_title img {
+    float: left;
+}
+.semi_main .content .best_wrap .best_main {
+    width: 714px;
+    height: 379px;
+    padding: 0 0 33px;
+    margin: 0 -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------BEST01------------ */
+.semi_main .content .best_wrap .best_main .best01 {
+    width: 238px;
+    height: 346px;
+    padding: 0 10px;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best01 .best01_title {
+    width: 218px;
+    height: 15px;
+    margin-top: 14px;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best01 .best01_title p {
+    font-size: 13px;
+    color: #555555;
+    font-weight: bolder;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======================----------BEST02------------====================== */
+.semi_main .content .best_wrap .best_main .best02 {
+    width: 238px;
+    height: 346px;
+    padding: 0 10px;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best02 .best02_title {
+    width: 218px;
+    height: 15px;
+    margin-top: 14px;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best02 .best02_title p {
+    font-size: 13px;
+    color: #555555;
+    font-weight: bolder;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======================----------BEST03------------====================== */
+.semi_main .content .best_wrap .best_main .best03 {
+    width: 238px;
+    height: 346px;
+    padding: 0 10px;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best03 .best03_title {
+    width: 218px;
+    height: 15px;
+    margin-top: 14px;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best03 .best03_title p {
+    font-size: 13px;
+    color: #555555;
+    font-weight: bolder;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* 마이페이지 부분 CSS입니다  */
 
 /* 마이페이지 FAVORITE 부분 CSS 입니다 */

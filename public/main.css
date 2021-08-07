@@ -865,7 +865,7 @@ body {
     width: 694px;
     height: 53px;
     padding: 26px 0 10px;
-    background: yellow;
+    border-bottom: 1px solid #e1e1e1;
 }
 .semi_main .content .best_wrap .best_title img {
     float: left;
@@ -873,20 +873,9 @@ body {
 .semi_main .content .best_wrap .best_main {
     width: 714px;
     height: 379px;
-    padding: 0 0 33px;
+    padding: 0 0 30px;
     margin: 0 -10px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* ----------BEST01------------ */
 .semi_main .content .best_wrap .best_main .best01 {
@@ -908,6 +897,129 @@ body {
     float: left;
 }
 
+/* 01_01 */
+
+.semi_main .content .best_wrap .best_main .best01_01 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best01_01 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best01_01 .best01_01_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best01_01 .best01_01_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best01_01 .best01_01_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best01_01 .best01_01_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best01_01 .best01_01_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+
+/* 01_02 */
+
+.semi_main .content .best_wrap .best_main .best01_02 {
+    width: 218px;
+    height: 90px;
+    margin-top: 20px;
+}
+.semi_main .content .best_wrap .best_main .best01_02 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best01_02 .best01_02_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best01_02 .best01_02_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best01_02 .best01_02_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best01_02 .best01_02_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best01_02 .best01_02_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+/* 01_03 */
+
+.semi_main .content .best_wrap .best_main .best01_03 {
+    width: 218px;
+    height: 90px;
+    margin-top: 20px;
+}
+.semi_main .content .best_wrap .best_main .best01_03 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best01_03 .best01_03_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best01_03 .best01_03_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best01_03 .best01_03_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best01_03 .best01_03_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best01_03 .best01_03_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
 
 
 
@@ -940,16 +1052,129 @@ body {
     float: left;
 }
 
+/* 02_01 */
+
+.semi_main .content .best_wrap .best_main .best02_01 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best02_01 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best02_01 .best02_01_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best02_01 .best02_01_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best02_01 .best02_01_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best02_01 .best02_01_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best02_01 .best02_01_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
 
 
+/* 02_02 */
 
+.semi_main .content .best_wrap .best_main .best02_02 {
+    width: 218px;
+    height: 90px;
+    margin-top: 20px;
+}
+.semi_main .content .best_wrap .best_main .best02_02 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best02_02 .best02_02_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best02_02 .best02_02_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best02_02 .best02_02_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best02_02 .best02_02_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best02_02 .best02_02_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
 
+/* 02_03 */
 
-
-
-
-
-
+.semi_main .content .best_wrap .best_main .best02_03 {
+    width: 218px;
+    height: 90px;
+    margin-top: 20px;
+}
+.semi_main .content .best_wrap .best_main .best02_03 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best02_03 .best02_03_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best02_03 .best02_03_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best02_03 .best02_03_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best02_03 .best02_03_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best02_03 .best02_03_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
 
 
 
@@ -979,6 +1204,257 @@ body {
     float: left;
 }
 
+/* 03_01 */
+
+.semi_main .content .best_wrap .best_main .best03_01 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best03_01 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best03_01 .best03_01_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best03_01 .best03_01_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best03_01 .best03_01_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best03_01 .best03_01_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best03_01 .best03_01_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+
+/* 03_02 */
+
+.semi_main .content .best_wrap .best_main .best03_02 {
+    width: 218px;
+    height: 90px;
+    margin-top: 20px;
+}
+.semi_main .content .best_wrap .best_main .best03_02 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best03_02 .best03_02_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best03_02 .best03_02_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best03_02 .best03_02_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best03_02 .best03_02_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best03_02 .best03_02_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+/* 03_03 */
+
+.semi_main .content .best_wrap .best_main .best03_03 {
+    width: 218px;
+    height: 90px;
+    margin-top: 20px;
+}
+.semi_main .content .best_wrap .best_main .best03_03 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .best_wrap .best_main .best03_03 .best03_03_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .best_wrap .best_main .best03_03 .best03_03_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .best_wrap .best_main .best03_03 .best03_03_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .best_wrap .best_main .best03_03 .best03_03_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .best_wrap .best_main .best03_03 .best03_03_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+
+
+
+
+/* ======================인기단행본 CSS입니다====================== */
+.semi_main .content .인기_wrap {
+    width: 694px;
+    height: 432px;
+}
+.semi_main .content .인기_wrap .인기_title {
+    width: 694px;
+    height: 53px;
+    padding: 26px 0 10px;
+    border-bottom: 1px solid #e1e1e1;
+}
+.semi_main .content .인기_wrap .인기_title img {
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main {
+    width: 714px;
+    height: 379px;
+    padding: 0 0 30px;
+    margin: 0 -10px;
+}
+
+
+/* ----------인기01------------ */
+.semi_main .content .인기_wrap .인기_main .인기01 {
+    width: 238px;
+    height: 346px;
+    padding: 0 10px;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기01 .인기01_title {
+    width: 218px;
+    height: 15px;
+    margin-top: 14px;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기01 .인기01_title p {
+    font-size: 13px;
+    color: #555555;
+    font-weight: bolder;
+    float: left;
+}
+
+/* 01_01 */
+
+.semi_main .content .인기_wrap .인기_main .인기01_01 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_01 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_01 .인기01_01_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .인기_wrap .인기_main .인기01_01 .인기01_01_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_01 .인기01_01_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_01 .인기01_01_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_01 .인기01_01_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+/* 01_02 */
+
+.semi_main .content .인기_wrap .인기_main .인기01_02 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_02 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_02 .인기01_02_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .인기_wrap .인기_main .인기01_02 .인기01_02_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_02 .인기01_02_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_02 .인기01_02_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기01_02 .인기02_02_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
 
 
 
@@ -986,11 +1462,216 @@ body {
 
 
 
+/* ----------인기02------------ */
+.semi_main .content .인기_wrap .인기_main .인기02 {
+    width: 238px;
+    height: 346px;
+    padding: 0 10px;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기02 .인기02_title {
+    width: 218px;
+    height: 15px;
+    margin-top: 14px;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기02 .인기02_title p {
+    font-size: 13px;
+    color: #555555;
+    font-weight: bolder;
+    float: left;
+}
+
+/* 02_01 */
+
+.semi_main .content .인기_wrap .인기_main .인기02_01 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_01 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_01 .인기02_01_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .인기_wrap .인기_main .인기02_01 .인기02_01_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_01 .인기02_01_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_01 .인기02_01_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_01 .인기02_01_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+
+
+/* 02_02 */
+
+.semi_main .content .인기_wrap .인기_main .인기02_02 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_02 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_02 .인기02_02_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .인기_wrap .인기_main .인기02_02 .인기02_02_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_02 .인기02_02_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_02 .인기02_02_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기02_02 .인기02_02_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
 
 
 
 
+/* ----------인기03------------ */
+.semi_main .content .인기_wrap .인기_main .인기03 {
+    width: 238px;
+    height: 346px;
+    padding: 0 10px;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기03 .인기03_title {
+    width: 218px;
+    height: 15px;
+    margin-top: 14px;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기03 .인기03_title p {
+    font-size: 13px;
+    color: #555555;
+    font-weight: bolder;
+    float: left;
+}
 
+/* 02_01 */
+
+.semi_main .content .인기_wrap .인기_main .인기03_01 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_01 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_01 .인기03_01_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .인기_wrap .인기_main .인기03_01 .인기03_01_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_01 .인기03_01_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_01 .인기03_01_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_01 .인기03_01_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
+
+
+
+/* 02_02 */
+
+.semi_main .content .인기_wrap .인기_main .인기03_02 {
+    width: 218px;
+    height: 90px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_02 a img {
+    width: 83px;
+    height: 90px;
+    border: 1px solid #e1e1e1;
+    float: left;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_02 .인기03_02_info {
+    width: 127px;
+    height: 90px;
+    float: right;
+} 
+.semi_main .content .인기_wrap .인기_main .인기03_02 .인기03_02_info a {
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+    float: left;
+    font-weight: bolder;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_02 .인기03_02_info p {
+    font-size: 11px;
+    color: #767676;
+    float: left;
+    margin-top: 2px;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_02 .인기03_02_info .summary {
+    width: 127px;
+    height: 32px;
+    margin-top: 40px;
+}
+.semi_main .content .인기_wrap .인기_main .인기03_02 .인기03_02_info .summary a {
+    font-size: 12px;
+    color: #434343;
+}
 
 
 
@@ -1529,4 +2210,129 @@ body {
     border: 1px solid #e1e1e1;
     margin: -1px 1px;
     padding: 5px 2px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FOOTER */
+.footer {
+    width: 960px;
+    height: 206px;
+    margin: 0 auto;
+    padding: 40px 0 78px;
+    border-top: 1px solid #e1e1e1;
+}
+.footer .foot_info {
+    width: 960px;
+    height: 41px;
+}
+
+
+
+/* LEFT */
+.footer .foot_info .info_left {
+    width: 490px;
+    height: 41px;
+    float: left;
+}
+.footer .foot_info .info_left .info_left_detail {
+    width: 490px;
+    height: 14px;
+}
+.footer .foot_info .info_left .info_left_detail ul {
+    width: 490px;
+    height: 14px;
+}
+.footer .foot_info .info_left .info_left_detail ul li {
+    float: left;
+    padding: 0 8px 0 9px;
+}
+.footer .foot_info .info_left .info_left_detail ul li:nth-child(1) {
+    float: left;
+    padding: 0 8px 0 0;
+}
+.footer .foot_info .info_left .info_left_detail ul li:nth-child(2) {
+    font-weight: bold;
+}
+.footer .foot_info .info_left .info_left_detail ul li a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #333132;
+}
+.footer .foot_info .info_left .navercorpimg {
+    width: 490px;
+    height: 14px;
+    margin-top: 13px;
+}
+.footer .foot_info .info_left .navercorpimg a img {
+    width: 80px;
+    height: 10px;
+    float: left;
+}
+
+/* RIGHT */
+.footer .foot_info .info_right {
+    width: 470px;
+    height: 41px;
+    padding-left: 18px;
+    float: right;
+}
+.footer .foot_info .info_right .info_right_detail {
+    width: 470px;
+    height: 14px;
+}
+.footer .foot_info .info_right .info_right_detail ul {
+    width: 470px;
+    height: 14px;
+}
+.footer .foot_info .info_right .info_right_detail ul li {
+    float: left;
+    padding: 0 8px 0 9px;
+}
+.footer .foot_info .info_right .info_right_detail ul li:nth-child(1) {
+    float: left;
+    padding: 0 8px 0 0;
+}
+.footer .foot_info .info_right .info_right_detail ul li:nth-child(2) {
+    font-weight: bold;
+}
+.footer .foot_info .info_right .info_right_detail ul li a {
+    font-size: 12px;
+    text-decoration: none;
+    color: #333132;
+}
+.footer .foot_info .info_right .naverwebtooncorpimg {
+    width: 470px;
+    height: 14px;
+    margin-top: 13px;
+}
+.footer .foot_info .info_right .naverwebtooncorpimg a img {
+    width: 154px;
+    height: 10px;
+    float: left;
+}
+.footer .copy_low {
+    width: 960px;
+    height: 49px;
+    padding: 32px 0 0;
+}
+.footer .copy_low p {
+    font-size: 12px;
+    color: #8A8C8E;
+    float: left;
 }
